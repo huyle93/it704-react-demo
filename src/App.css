@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: #222;
+  background-color: rgb(10, 8, 141);
   height: 150px;
   padding: 20px;
   color: white;
@@ -25,4 +25,18 @@
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
+}
+
+body{
+  padding:0px;
+  font-family:'Roboto';
+  text-align:center;
+}
+
+.chart{
+  margin: 0 auto;
+  border-radius: 50%;
+  display: block;
+  text-align: center;
+  width: 60%;
 }
