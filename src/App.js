@@ -52,7 +52,7 @@ class App extends Component {
           <h1 className="App-title">JavaScript UI Tutorial</h1>
         </header>
         <p className="App-intro">
-          <code>github: </code>
+          <code>github: https://github.com/huyle93/it704-react-demo</code>
         </p>
         <Chart class="chart" chartData={this.state.chartData} judge="Thomas Durkin" legendPosition="bottom"/>
       </div>
